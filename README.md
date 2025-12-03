@@ -26,7 +26,7 @@ Email  / Github
 
   <section>
     <h2>Contact</h2>
-    <p>Email: your.email@example.com</p>
+    <p>Email: abdoul12@my.yorku.ca</p>
   </section>
 </body>
 
